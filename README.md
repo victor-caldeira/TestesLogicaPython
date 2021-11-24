@@ -1,2 +1,3 @@
 # TestesLogicaPython
- Alguns testes simples de lógica resolvidos em Python
+---
+ Alguns testes simples de lógica resolvidos em Python.
